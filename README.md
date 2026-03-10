@@ -95,7 +95,7 @@ SOC-Investigation-Portfolio/
 
 └── README.md
 
-# Learning Objectives
+## Learning Objectives
 
 ### This portfolio demonstrates my ability to:
 - Investigate real-world security alerts
