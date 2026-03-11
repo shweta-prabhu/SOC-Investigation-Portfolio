@@ -44,14 +44,6 @@
 
 ---
 
-## Recommended Remediation Actions
-
-* Verify the digital signature of WUDFHost.exe.
-* Review Sysmon logs for similar events on host win-3455.
-* Confirm the legitimacy of parent process services.exe.
-* Document the alert as a False Positive in GitHub for SOC tracking.
-
----
 
 ## List of Attack Indicators
 
